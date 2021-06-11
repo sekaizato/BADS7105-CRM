@@ -188,7 +188,8 @@
   }
 
   .menu__cta__link {
-    color: $accent-color;
+    color: #FEFEFE;
+    // color: $accent-color;
   }
 
   @include mq(tabletp) {
