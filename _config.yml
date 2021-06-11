@@ -1,7 +1,7 @@
 site: Made Jekyll Theme
 
-url: "https://sekaizato.github.io"
-baseurl: "/dev"
+url: "https://zato.dev"
+baseurl: "/"
 
 collections:
   pages:
