@@ -212,7 +212,7 @@
     }
 
     .highlighter-rouge {
-      margin: 1.5em 0;
+      margin: 0em 0;
     }
 
     hr {
@@ -311,10 +311,13 @@
 
       .gallery,
       .image-wrap,
-      .video-wrap,
-      .highlighter-rouge {
-        margin: 1.5em auto;
+      .video-wrap {
+        margin: 2.5em auto;
       }
+      .highlighter-rouge{
+        margin: 0em auto
+      }
+
     }
   }
 }
