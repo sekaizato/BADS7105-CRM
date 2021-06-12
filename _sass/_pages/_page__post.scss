@@ -226,6 +226,7 @@
     .gallery.full-width {
       width: calc(100vw - 60px);
       max-width: 1140px;
+      display: inline;
 
       img {
         max-width: 1140px;
